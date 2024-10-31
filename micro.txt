@@ -1,0 +1,9 @@
+teams.microsoft.com
+teams.skype.com
+office365.com
+office.com
+microsoftonline.com
+login.microsoftonline.com
+logincdn.msftauth.net
+office.net
+teams.microsoftonline-p.com
